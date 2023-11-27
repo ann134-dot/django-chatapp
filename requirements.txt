@@ -1,0 +1,12 @@
+asgiref
+certifi
+charset-normalizer
+Django
+django-crispy-forms
+docopt
+idna
+Pillow
+requests
+sqlparse
+urllib3
+yarg
